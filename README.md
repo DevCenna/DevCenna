@@ -1,6 +1,6 @@
 ### Hi there 👋, Sina Gökçek
 #### Web and Python developer 🧑🏻‍💻🐍
-![Web and Python developer 🧑🏻‍💻🐍](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
+![Web and Python developer 🧑🏻‍💻🐍](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 Former web developer, now data scientist.
 

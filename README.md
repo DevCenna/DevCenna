@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Sina Gökçek
+#### Web and Python developer 🧑🏻‍💻🐍
+![Web and Python developer 🧑🏻‍💻🐍](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 
-<!--
-**DevCenna/DevCenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former web developer, now data scientist.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / BOOTSTRAP / JAVASCRİPT / REACT / PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DATA  
+- 🌱 I’m currently learning PANDAS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevCenna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sina-g%C3%B6k%C3%A7ek-5abbba25a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/devcenna)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCenna)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCenna&show_icons=true)  
+
